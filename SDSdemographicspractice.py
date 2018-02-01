@@ -1,6 +1,6 @@
 import pandas as pd
 
-stats = pd.read_csv('C:\Users\Yulia\Desktop\My Data Science\Python\DemographicData.csv')
+stats = pd.read_csv('Demographics/DemographicData.csv')
 stats.head()
 
 import matplotlib.pyplot as plt
